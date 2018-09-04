@@ -1,1 +1,2 @@
-# news-updates
+ https://madihaparacha.github.io/news-updates/
+ 
