@@ -7,8 +7,8 @@ function onloadFunc(){
 		document.querySelector(".main-div").innerHTML += 
 		`<div class='news-div'>
 		<div class='image-div'>
-                <a href='${data.articles[i].url}'>
 		<img src='${data.articles[i].urlToImage}'>
+                <a href='${data.articles[i].url}'>
         <h1 class="news-title">${data.articles[i].title}</h1>
 		</div>
 		<p class='news-para'>${data.articles[i].description}</p>
