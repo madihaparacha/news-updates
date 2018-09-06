@@ -7,12 +7,10 @@
     background-position:center;
     padding: 60px;
 }
-.nav-bar:hover{
+.nav-bar{
     display: flex;
     justify-content: center;
-    width: 100%;
-    transform: scale(1.1);
-    z-index: 1;  
+    width: 100%;  
 }
 .sub-nav{
     padding:10px 5px;
