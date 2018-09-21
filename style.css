@@ -12,6 +12,7 @@
     justify-content: center;
     width: 100%; 
      font-size:20px;
+    font-weight:bold;
 }
 .sub-nav{
     padding:10px 5px;
@@ -67,4 +68,5 @@ img:hover {
 
 .news-title{
     font-size: 1.3em;
+    color:black;
 }
