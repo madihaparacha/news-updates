@@ -19,7 +19,6 @@
      margin: 0px 2px;
 }
 .title{
-    height: 30vh;
     width: 100%;
     margin-top: 10px;
     font-size:20px;
@@ -59,7 +58,7 @@ img:hover {
     z-index: 1;  
 }
 .news-para{
-        font-size: 15px;
+        font-size: 1em;
         margin: 0px;
         text-align: left;
         margin-bottom: 50px;
@@ -67,5 +66,5 @@ img:hover {
 }
 
 .news-title{
-    font-size: 1em;
+    font-size: 1.3em;
 }
