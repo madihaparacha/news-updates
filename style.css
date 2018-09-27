@@ -74,3 +74,11 @@ a{
     color:black;
     text-decoration:none;
 }
+.fa-github{
+  color: black;
+}
+.icon{
+  float: right;
+  font-size:50px;
+
+}
