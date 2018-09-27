@@ -70,3 +70,7 @@ img:hover {
     font-size: 1.3em;
     color:black;
 }
+a{
+    color:black;
+    text-decoration:none;
+}
